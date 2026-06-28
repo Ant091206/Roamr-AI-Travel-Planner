@@ -1,5 +1,5 @@
 import { Link, useNavigate } from 'react-router-dom';
-import { Wordmark } from './shared.jsx';
+import { Wordmark } from './Shared.jsx';
 import React from 'react';
 import aryanPhoto from './assets/Aryan photo professional.png';
 
